@@ -1,0 +1,12 @@
+.env/
+.idea/
+.vscode/
+__pycache__/
+*.scriv
+*.pyc
+venv
+__pycache__
+*.pyc
+.idea
+venv
+peewee_orm/venv
